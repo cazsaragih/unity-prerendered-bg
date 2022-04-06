@@ -1,5 +1,5 @@
 # Pre-Rendered Background in Unity
-A sample Unity project to handle camera movement on pre-rendered background games, also known as 'Ken Burns' effect. Thanks to the old unity [wiki](http://wiki.unity3d.com/index.php?title=OffsetVanishingPoint) for this amazing trick.
+A sample Unity project to handle camera movement on pre-rendered background games, also known as 'Ken Burns' effect.
 
 ## Specification
 * Unity 2019.4
