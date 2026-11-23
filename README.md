@@ -1,6 +1,9 @@
 # Pre-Rendered Background in Unity
 A sample Unity project to handle camera movement on pre-rendered background games, also known as 'Ken Burns' effect.
 
+https://github.com/user-attachments/assets/c1b1adf6-f673-461d-9bb0-ca3c13a4a657
+
+
 ## Specification
 * Unity 2019.4
 * Any modern version, really (5.0+)
